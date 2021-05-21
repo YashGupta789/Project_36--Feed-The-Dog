@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: aquamarine;
+}
+canvas{
+  border: 2px solid rgb(3, 7, 226);
+  margin-top:80px;
+  margin-left: 330px;
+}

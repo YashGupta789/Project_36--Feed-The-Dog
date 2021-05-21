@@ -6,7 +6,7 @@ var feed, lastFed,FedTime;
 var foodStockValue;
 
 function preload(){
-  sadDog=loadImage("Dog1.png");
+  sadDog=loadImage("dog1.png");
   happyDog=loadImage("happy dog1.png");
   bg = loadImage("bg.jpg")
 }
